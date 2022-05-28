@@ -76,13 +76,5 @@ $(document).ready(function() {
         $(".player").css("animation","none");
     })
 
-//     $(".enter").mouseenter(function(){
-//           $(this).css("background-color","#C3DBC5");
-//           $(this).css("color","#FFF");
-//     });
 
-//     $(".enter").mouseleave(function(){
-//         $(this).css("background-color","#EEC0C6");
-//         $(this).css("color","#000");
-//   });
 });
